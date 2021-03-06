@@ -1,0 +1,569 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015
+85001,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-112.06,759
+85002,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-112.06,345
+85003,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,623,602,928",NA,US,33.45,-112.08,6230
+85004,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"520,928,480,602,623",NA,US,33.44,-112.07,3930
+85005,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.44,-112.12,1050
+85006,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602,928,623",NA,US,33.46,-112.05,20970
+85007,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-112.09,10810
+85008,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623,480",NA,US,33.46,-111.98,50760
+85009,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,623,602",NA,US,33.44,-112.13,43400
+85010,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.46,-111.98,448
+85011,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.05,705
+85012,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"623,928,480,520,602",NA,US,33.5,-112.07,5880
+85013,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.5,-112.08,16300
+85014,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.5,-112.05,20350
+85015,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.1,35110
+85016,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602,623",NA,US,33.5,-112.02,30040
+85017,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.12,37350
+85018,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,623,602",NA,US,33.5,-111.98,31390
+85019,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623",NA,US,33.5,-112.14,26370
+85020,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602,623",NA,US,33.57,-112.05,28240
+85021,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,623,602",NA,US,33.55,-112.09,33700
+85022,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.62,-112.05,41320
+85023,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623",NA,US,33.63,-112.09,29990
+85024,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.68,-112.04,22220
+85025,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,520,623,928,602",NA,US,33.45,-112.07,0
+85026,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623,480",NA,US,33.45,-111.97,0
+85027,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"928,623",NA,US,33.68,-112.09,33100
+85028,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602",NA,US,33.56,-112,18350
+85029,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.59,-112.1,39630
+85030,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-112.07,186
+85031,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.49,-112.16,31510
+85032,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602",NA,US,33.62,-112,60150
+85033,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623",NA,US,33.49,-112.21,56530
+85034,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.43,-112.01,4130
+85035,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623",NA,US,33.47,-112.19,51760
+85036,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.63,-112.15,1030
+85037,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.48,-112.25,47800
+85038,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.46,-111.98,38
+85039,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.49,-112.28,0
+85040,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,480,623",NA,US,33.4,-112.02,27950
+85041,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.38,-112.11,56930
+85042,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"623,480,602",NA,US,33.37,-112.03,38050
+85043,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602,623,520",NA,US,33.42,-112.2,31900
+85044,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,520,480",NA,US,33.35,-112.02,35770
+85045,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,602,520",NA,US,33.3,-112.1,6870
+85046,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.62,-112,725
+85048,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,520,602",NA,US,33.31,-112.06,31730
+85050,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.69,-112,27510
+85051,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.55,-112.13,38330
+85053,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"623,602",NA,US,33.62,-112.13,25790
+85054,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.67,-111.95,4810
+85055,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-111.97,0
+85060,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-111.98,995
+85061,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.51,-112.12,324
+85062,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.46,-111.98,0
+85063,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.17,1705
+85064,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.03,1453
+85065,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"520,623,928,480,602",NA,US,33.43,-112.05,0
+85066,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.39,-112.03,1744
+85067,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.08,855
+85068,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.67,-112.06,976
+85069,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.56,-112.09,1661
+85070,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.3,-112.04,304
+85071,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.59,-112.11,888
+85072,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-112.01,41
+85073,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"602,623,480,520,928",NA,US,33.44,-112.07,0
+85074,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-112.09,359
+85075,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.49,-112.21,356
+85076,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.32,-111.99,839
+85077,UNIQUE,1,Phoenix,,"Greyhound Dial Corp, Dial Corp",AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-111.97,0
+85078,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.62,-112,773
+85079,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.5,-112.11,1040
+85080,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.63,-112.11,1829
+85082,PO BOX,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.46,-111.98,1184
+85083,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.73,-112.14,18090
+85085,STANDARD,0,Phoenix,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.75,-112.09,21350
+85086,STANDARD,0,Phoenix,"Anthem, Desert Hills",,AZ,Maricopa County,America/Phoenix,"602,623,928,480,520",NA,US,33.83,-112.11,36140
+85087,STANDARD,0,New River,Phoenix,,AZ,Maricopa County,America/Phoenix,"480,602,623,928",NA,US,33.95,-112.07,7990
+85096,STANDARD,1,Phoenix,,Census Bureau,AZ,Maricopa County,America/Phoenix,602,NA,US,33.44,-112.09,0
+85097,STANDARD,0,Phoenix,,Census Bureau,AZ,Maricopa County,America/Phoenix,"602,480,623",NA,US,33.43,-112.15,0
+85098,UNIQUE,0,Phoenix,Ctc,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.44,-112.12,0
+85099,UNIQUE,1,Phoenix,,Arizona State Lottery,AZ,Maricopa County,America/Phoenix,602,NA,US,33.45,-111.97,0
+85117,STANDARD,0,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.42,-111.54,0
+85118,STANDARD,0,Gold Canyon,"Apache Jct, Apache Junction, Queen Valley, Superstition Mountain, Superstition Mtn, Suprstitn Mtn",,AZ,Pinal County,America/Phoenix,"928,520",NA,US,33.34,-111.42,8990
+85119,STANDARD,0,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.38,-111.51,15010
+85120,STANDARD,0,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.4,-111.56,19750
+85121,STANDARD,0,Bapchule,,Sacaton,AZ,Pinal County,America/Phoenix,520,NA,US,33.14,-111.92,0
+85122,STANDARD,0,Casa Grande,"Eleven Mile, Eleven Mile Corner",,AZ,Pinal County,America/Phoenix,"480,520",NA,US,32.91,-111.74,42470
+85123,STANDARD,0,Arizona City,,Casa Grande,AZ,Pinal County,America/Phoenix,520,NA,US,32.73,-111.67,0
+85127,STANDARD,0,Chandler Heights,Chandler Hts,Queen Creek,AZ,Maricopa County,America/Phoenix,"480,520",NA,US,33.21,-111.69,0
+85128,STANDARD,0,Coolidge,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.97,-111.49,12120
+85130,STANDARD,0,Casa Grande,,,AZ,Pinal County,America/Phoenix,"480,520",NA,US,32.89,-111.75,0
+85131,STANDARD,0,Eloy,Toltec,,AZ,Pinal County,America/Phoenix,520,NA,US,32.65,-111.59,9340
+85132,STANDARD,0,Florence,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.95,-111.23,14910
+85135,STANDARD,0,Hayden,,,AZ,Gila County,America/Phoenix,520,NA,US,33,-110.79,0
+85137,STANDARD,0,Kearny,,,AZ,Pinal County,America/Phoenix,520,NA,US,33.1,-110.97,1720
+85138,STANDARD,0,Maricopa,,,AZ,Pinal County,America/Phoenix,520,NA,US,33.01,-111.97,31810
+85139,STANDARD,0,Maricopa,Mobile,,AZ,Pinal County,America/Phoenix,520,NA,US,32.98,-112.11,16170
+85140,STANDARD,0,San Tan Valley,"Queen Creek, San Tan Vly",,AZ,Pinal County,America/Phoenix,520,NA,US,33.24,-111.54,32630
+85141,STANDARD,0,Picacho,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.71,-111.49,320
+85142,STANDARD,0,Queen Creek,"Chandler Heights, Chandler Hts, San Tan Valley, San Tan Vly",,AZ,Maricopa County,America/Phoenix,"520,480",NA,US,33.16,-111.59,57090
+85143,STANDARD,0,San Tan Valley,"Queen Creek, San Tan Vly",,AZ,Pinal County,America/Phoenix,,NA,US,33.16,-111.56,31750
+85145,STANDARD,0,Red Rock,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.57,-111.36,1950
+85147,STANDARD,0,Sacaton,,,AZ,Pinal County,America/Phoenix,,NA,US,33.08,-111.74,0
+85172,STANDARD,0,Stanfield,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.93,-111.92,2240
+85173,STANDARD,0,Superior,,,AZ,Pinal County,America/Phoenix,"520,928",NA,US,33.28,-111.1,1990
+85178,STANDARD,0,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.42,-111.54,0
+85190,STANDARD,0,Tortilla Flat,,"Apache Jct, Apache Junction",AZ,Maricopa County,America/Phoenix,480,NA,US,33.52,-111.38,0
+85191,STANDARD,0,Valley Farms,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.98,-111.44,0
+85192,STANDARD,0,Winkelman,Dudleyville,,AZ,Pinal County,America/Phoenix,520,NA,US,32.88,-110.66,1110
+85193,STANDARD,0,Casa Grande,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.86,-111.83,2860
+85194,STANDARD,0,Casa Grande,,,AZ,Pinal County,America/Phoenix,"480,520",NA,US,32.91,-111.65,4840
+85201,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,"480,928",NA,US,33.44,-111.85,40440
+85202,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,"480,928",NA,US,33.38,-111.87,33640
+85203,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.44,-111.8,32920
+85204,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.39,-111.78,56110
+85205,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.43,-111.71,33170
+85206,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.39,-111.71,27330
+85207,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.45,-111.64,39600
+85208,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.4,-111.63,28390
+85209,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.37,-111.64,32960
+85210,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,"480,928",NA,US,33.38,-111.84,33830
+85211,PO BOX,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.44,-111.84,1774
+85212,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.33,-111.63,30300
+85213,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.44,-111.76,29320
+85214,PO BOX,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.39,-111.78,874
+85215,STANDARD,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.51,-111.58,13470
+85216,PO BOX,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.39,-111.72,1165
+85217,STANDARD,1,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.32,-111.32,1587
+85218,STANDARD,1,Apache Junction,"Suprston Mtn, Superstition Mtn, Gold Canyon, Apache Jct, Queen Valley",,AZ,Pinal County,America/Phoenix,480,NA,US,33.35,-111.41,9960
+85219,STANDARD,1,Apache Junction,"Apache Jct, Tortilla Flat",,AZ,Pinal County,America/Phoenix,480,NA,US,33.4,-111.46,15473
+85220,STANDARD,1,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.41,-111.57,20550
+85221,PO BOX,1,Bapchule,,,AZ,Pinal County,America/Phoenix,520,NA,US,33.12,-111.9,1613
+85222,STANDARD,1,Casa Grande,"Eleven Mile, Eleven Mile Corner",,AZ,Pinal County,America/Phoenix,520,NA,US,32.87,-111.73,39954
+85223,STANDARD,1,Arizona City,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.74,-111.68,7294
+85224,STANDARD,0,Chandler,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623",NA,US,33.32,-111.87,40680
+85225,STANDARD,0,Chandler,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623",NA,US,33.32,-111.82,64370
+85226,STANDARD,0,Chandler,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623",NA,US,33.27,-111.94,35590
+85227,STANDARD,1,Chandler Heights,"Chandler Hts, Queen Creek",,AZ,Maricopa County,America/Phoenix,480,NA,US,33.34,-111.63,509
+85228,STANDARD,1,Coolidge,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.96,-111.52,10507
+85230,STANDARD,1,Casa Grande,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.87,-111.75,3147
+85231,STANDARD,1,Eloy,Toltec,,AZ,Pinal County,America/Phoenix,,NA,US,32.71,-111.57,8236
+85232,STANDARD,1,Florence,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.96,-111.31,8795
+85233,STANDARD,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.34,-111.81,35000
+85234,STANDARD,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.36,-111.75,46960
+85235,PO BOX,1,Hayden,,,AZ,Gila County,America/Phoenix,928,NA,US,32.99,-110.78,599
+85236,STANDARD,0,Higley,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.33,-111.71,13696
+85237,STANDARD,1,Kearny,,,AZ,Pinal County,America/Phoenix,,NA,US,33.09,-110.97,2044
+85238,STANDARD,1,Maricopa,,,AZ,Pinal County,America/Phoenix,520,NA,US,33,-111.93,2335
+85239,STANDARD,1,Maricopa,Mobile,,AZ,Pinal County,America/Phoenix,520,NA,US,33.02,-112.04,28233
+85240,STANDARD,1,Queen Creek,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.22,-111.53,1691
+85241,PO BOX,1,Picacho,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.71,-111.49,413
+85242,STANDARD,1,Queen Creek,"Chandler Hts, Chandler Heights",,AZ,Maricopa County,America/Phoenix,480,NA,US,33.22,-111.61,50207
+85243,STANDARD,1,Queen Creek,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.15,-111.54,19706
+85244,PO BOX,0,Chandler,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.23,-111.76,1855
+85245,PO BOX,1,Red Rock,,,AZ,Pinal County,America/Phoenix,,NA,US,32.62,-111.37,130
+85246,PO BOX,0,Chandler,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.29,-111.86,981
+85247,PO BOX,1,Sacaton,,,AZ,Pinal County,America/Phoenix,520,NA,US,33.1,-111.75,4155
+85248,STANDARD,0,Chandler,Sun Lakes,,AZ,Maricopa County,America/Phoenix,"480,520",NA,US,33.21,-111.87,30220
+85249,STANDARD,0,Chandler,,,AZ,Maricopa County,America/Phoenix,"480,520",NA,US,33.24,-111.78,41180
+85250,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.53,-111.89,14110
+85251,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,"480,602",NA,US,33.49,-111.92,30660
+85252,PO BOX,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.48,-111.92,1276
+85253,STANDARD,0,Paradise Valley,"Paradise Vly, Scottsdale",,AZ,Maricopa County,America/Phoenix,,NA,US,33.54,-111.96,14960
+85254,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.61,-111.94,43410
+85255,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.66,-111.87,38260
+85256,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.5,-111.79,4300
+85257,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.46,-111.92,23800
+85258,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.56,-111.9,20560
+85259,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.6,-111.81,20040
+85260,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.61,-111.89,32650
+85261,PO BOX,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.49,-111.92,1074
+85262,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,"480,602",NA,US,33.84,-111.81,9730
+85263,STANDARD,0,Rio Verde,Scottsdale,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.73,-111.68,1550
+85264,STANDARD,0,Fort Mcdowell,Scottsdale,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.75,-111.57,1280
+85266,STANDARD,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,"480,520,602,623,928",NA,US,33.77,-111.92,9390
+85267,PO BOX,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.61,-111.89,1168
+85268,STANDARD,0,Fountain Hills,"Fountain Hls, Scottsdale",,AZ,Maricopa County,America/Phoenix,480,NA,US,33.6,-111.74,19040
+85269,PO BOX,0,Fountain Hills,"Fountain Hls, Scottsdale",,AZ,Maricopa County,America/Phoenix,480,NA,US,33.6,-111.71,1453
+85271,PO BOX,0,Scottsdale,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.46,-111.91,727
+85272,STANDARD,1,Stanfield,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.85,-111.97,2275
+85273,STANDARD,1,Superior,,,AZ,Pinal County,America/Phoenix,,NA,US,33.28,-111.11,2327
+85274,PO BOX,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.38,-111.87,996
+85275,PO BOX,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.45,-111.76,958
+85277,PO BOX,0,Mesa,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.45,-111.72,1010
+85278,STANDARD,1,Apache Junction,Apache Jct,,AZ,Pinal County,America/Phoenix,480,NA,US,33.41,-111.54,1123
+85279,STANDARD,1,Florence,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.79,-111.21,0
+85280,PO BOX,0,Tempe,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.4,-111.92,854
+85281,STANDARD,0,Tempe,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.43,-111.91,31280
+85282,STANDARD,0,Tempe,,,AZ,Maricopa County,America/Phoenix,"480,602",NA,US,33.4,-111.92,40080
+85283,STANDARD,0,Tempe,Guadalupe,,AZ,Maricopa County,America/Phoenix,"602,480",NA,US,33.36,-111.93,38910
+85284,STANDARD,0,Tempe,,,AZ,Maricopa County,America/Phoenix,"480,520",NA,US,33.33,-111.93,18180
+85285,PO BOX,0,Tempe,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.39,-111.93,1794
+85286,STANDARD,0,Chandler,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.27,-111.82,38090
+85287,UNIQUE,0,Tempe,"Arizona State University, Asu",Arizona State Univ,AZ,Maricopa County,America/Phoenix,480,NA,US,33.42,-111.93,49
+85289,UNIQUE,1,Tempe,,State Farm Ins,AZ,Maricopa County,America/Phoenix,480,NA,US,33.4,-111.96,0
+85290,STANDARD,1,Apache Junction,"Apache Jct, Tortilla Flat",,AZ,Maricopa County,America/Phoenix,,NA,US,33.45,-111.63,32
+85291,PO BOX,1,Valley Farms,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.99,-111.44,302
+85292,STANDARD,1,Winkelman,Dudleyville,,AZ,Pinal County,America/Phoenix,,NA,US,32.94,-110.72,1402
+85293,STANDARD,1,Casa Grande,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.85,-111.79,130
+85294,STANDARD,1,Casa Grande,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.92,-111.61,271
+85295,STANDARD,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.3,-111.74,40940
+85296,STANDARD,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.34,-111.74,41720
+85297,STANDARD,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.28,-111.73,31690
+85298,STANDARD,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.24,-111.7,31540
+85299,PO BOX,0,Gilbert,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.33,-111.76,1472
+85301,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.53,-112.18,56670
+85302,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,"602,623",NA,US,33.57,-112.18,33750
+85303,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,602,NA,US,33.53,-112.22,31380
+85304,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.59,-112.17,24500
+85305,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.53,-112.26,11140
+85306,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.62,-112.17,20880
+85307,STANDARD,0,Glendale,Luke Afb,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.53,-112.31,8680
+85308,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.66,-112.18,58290
+85309,STANDARD,0,Glendale Luke Afb,"Gbafaf, Glendale, Luke Afb",,AZ,Maricopa County,America/Phoenix,623,NA,US,33.53,-112.38,350
+85310,STANDARD,0,Glendale,,,AZ,Maricopa County,America/Phoenix,"623,928",NA,US,33.71,-112.17,18310
+85311,PO BOX,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.53,-112.17,1246
+85312,PO BOX,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.62,-112.18,1090
+85313,UNIQUE,1,Glendale,Arizona State Univ West,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.6,-112.16,0
+85318,PO BOX,0,Glendale,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.66,-112.18,1171
+85320,PO BOX,0,Aguila,,,AZ,Maricopa County,America/Phoenix,,NA,US,33.81,-113.18,1025
+85321,STANDARD,0,Ajo,,,AZ,Pima County,America/Phoenix,520,NA,US,32.24,-112.65,2760
+85322,STANDARD,0,Arlington,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.18,-112.79,610
+85323,STANDARD,0,Avondale,,Avondale-goodyear,AZ,Maricopa County,America/Phoenix,623,NA,US,33.44,-112.31,38720
+85324,STANDARD,0,Black Canyon City,"Black Cyn Cty, Rock Springs",,AZ,Yavapai County,America/Phoenix,623,NA,US,34.13,-112.13,1990
+85325,PO BOX,0,Bouse,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.93,-113.86,524
+85326,STANDARD,0,Buckeye,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.38,-112.55,51240
+85327,PO BOX,0,Cave Creek,,,AZ,Maricopa County,America/Phoenix,480,NA,US,33.82,-111.96,2537
+85328,STANDARD,0,Cibola,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.32,-114.64,151
+85329,PO BOX,0,Cashion,,,AZ,Maricopa County,America/Phoenix,,NA,US,33.43,-112.29,3239
+85331,STANDARD,0,Cave Creek,,,AZ,Maricopa County,America/Phoenix,"602,480",NA,US,33.88,-111.91,25190
+85332,PO BOX,0,Congress,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.21,-112.97,1290
+85333,STANDARD,0,Dateland,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.94,-113.34,480
+85334,PO BOX,0,Ehrenberg,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.52,-114.52,875
+85335,STANDARD,0,El Mirage,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.59,-112.33,32070
+85336,PO BOX,0,Gadsden,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.55,-114.79,1058
+85337,STANDARD,0,Gila Bend,,,AZ,Maricopa County,America/Phoenix,928,NA,US,32.99,-112.9,2590
+85338,STANDARD,0,Goodyear,,Avondale-goodyear,AZ,Maricopa County,America/Phoenix,623,NA,US,33.37,-112.38,46680
+85339,STANDARD,0,Laveen,,,AZ,Maricopa County,America/Phoenix,520,NA,US,33.3,-112.2,41320
+85340,STANDARD,0,Litchfield Park,Litchfield Pk,Litchfield,AZ,Maricopa County,America/Phoenix,623,NA,US,33.51,-112.36,28510
+85341,PO BOX,0,Lukeville,,,AZ,Pima County,America/Phoenix,520,NA,US,31.88,-112.8,424
+85342,STANDARD,0,Morristown,,Circle City,AZ,Maricopa County,America/Phoenix,623,NA,US,33.98,-112.44,1010
+85343,STANDARD,0,Palo Verde,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.32,-112.7,338
+85344,STANDARD,0,Parker,,,AZ,La Paz County,America/Phoenix,928,NA,US,34.08,-114.22,8250
+85345,STANDARD,0,Peoria,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.57,-112.25,50450
+85346,PO BOX,0,Quartzsite,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.66,-114.23,958
+85347,STANDARD,0,Roll,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.76,-113.87,330
+85348,STANDARD,0,Salome,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.72,-113.65,1270
+85349,PO BOX,0,San Luis,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.49,-114.77,38127
+85350,STANDARD,0,Somerton,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.53,-114.71,18730
+85351,STANDARD,0,Sun City,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.6,-112.28,19340
+85352,PO BOX,0,Tacna,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.68,-113.97,682
+85353,STANDARD,0,Tolleson,,,AZ,Maricopa County,America/Phoenix,520,NA,US,33.42,-112.27,38490
+85354,STANDARD,0,Tonopah,,,AZ,Maricopa County,America/Phoenix,"623,928",NA,US,33.43,-113.05,5530
+85355,STANDARD,0,Waddell,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.55,-112.43,11150
+85356,STANDARD,0,Wellton,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.7,-114.17,2740
+85357,PO BOX,0,Wenden,,,AZ,La Paz County,America/Phoenix,928,NA,US,34.06,-113.51,361
+85358,PO BOX,0,Wickenburg,,,AZ,Maricopa County,America/Phoenix,928,NA,US,33.96,-112.74,3016
+85359,PO BOX,0,Quartzsite,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.68,-114.22,545
+85360,PO BOX,0,Wikieup,,,AZ,Mohave County,America/Phoenix,928,NA,US,34.79,-113.37,272
+85361,STANDARD,0,Wittmann,,,AZ,Maricopa County,America/Phoenix,,NA,US,33.76,-112.61,5330
+85362,PO BOX,0,Yarnell,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.26,-112.78,581
+85363,STANDARD,0,Youngtown,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.58,-112.3,5400
+85364,STANDARD,0,Yuma,,,AZ,Yuma County,America/Phoenix,"520,928",NA,US,32.68,-114.66,63250
+85365,STANDARD,0,Yuma,"Martinez Lake, Ypg, Yuma Proving Ground",,AZ,Yuma County,America/Phoenix,"520,928",NA,US,32.72,-114.51,38170
+85366,PO BOX,0,Yuma,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.68,-114.59,4794
+85367,STANDARD,0,Yuma,,,AZ,Yuma County,America/Phoenix,"520,928",NA,US,32.68,-114.38,13020
+85369,PO BOX,0,Yuma,,,AZ,Yuma County,America/Phoenix,928,NA,US,32.69,-114.67,1082
+85371,PO BOX,0,Poston,,,AZ,La Paz County,America/Phoenix,928,NA,US,33.83,-114.38,511
+85372,PO BOX,0,Sun City,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.61,-112.28,694
+85373,STANDARD,0,Sun City,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.68,-112.31,14640
+85374,STANDARD,0,Surprise,Sun City,Surprise Dysart Retail,AZ,Maricopa County,America/Phoenix,623,NA,US,33.64,-112.38,32980
+85375,STANDARD,0,Sun City West,Sun City,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.67,-112.36,20420
+85376,PO BOX,0,Sun City West,,Sun City,AZ,Maricopa County,America/Phoenix,,NA,US,33.66,-112.35,369
+85377,PO BOX,0,Carefree,,,AZ,Maricopa County,America/Phoenix,,NA,US,33.82,-111.9,3602
+85378,STANDARD,0,Surprise,,Sun City,AZ,Maricopa County,America/Phoenix,623,NA,US,33.63,-112.34,352
+85379,STANDARD,0,Surprise,Sun City,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.6,-112.37,40530
+85380,PO BOX,0,Peoria,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.68,-112.24,1336
+85381,STANDARD,0,Peoria,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.61,-112.23,22710
+85382,STANDARD,0,Peoria,,,AZ,Maricopa County,America/Phoenix,"928,623",NA,US,33.65,-112.24,36480
+85383,STANDARD,0,Peoria,,,AZ,Maricopa County,America/Phoenix,928,NA,US,33.76,-112.24,46550
+85385,PO BOX,0,Peoria,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.61,-112.23,802
+85387,STANDARD,0,Surprise,"Sun City, Sun City West",,AZ,Maricopa County,America/Phoenix,623,NA,US,33.71,-112.4,9150
+85388,STANDARD,0,Surprise,,Sun City,AZ,Maricopa County,America/Phoenix,623,NA,US,33.6,-112.43,25160
+85390,STANDARD,0,Wickenburg,,,AZ,Maricopa County,America/Phoenix,928,NA,US,33.9,-112.9,5180
+85392,STANDARD,0,Avondale,,Avondale Goodyear,AZ,Maricopa County,America/Phoenix,623,NA,US,33.47,-112.29,35120
+85395,STANDARD,0,Goodyear,,Avondale Goodyear,AZ,Maricopa County,America/Phoenix,623,NA,US,33.47,-112.39,25580
+85396,STANDARD,0,Buckeye,,,AZ,Maricopa County,America/Phoenix,623,NA,US,33.53,-112.7,16440
+85501,STANDARD,0,Globe,,,AZ,Gila County,America/Phoenix,"520,928",NA,US,33.62,-110.7,6810
+85502,PO BOX,0,Globe,,,AZ,Gila County,America/Phoenix,928,NA,US,33.39,-110.78,2263
+85530,PO BOX,0,Bylas,,,AZ,Graham County,America/Phoenix,928,NA,US,33.07,-110.25,1544
+85531,PO BOX,0,Central,,,AZ,Graham County,America/Phoenix,928,NA,US,32.88,-109.79,409
+85532,PO BOX,0,Claypool,,,AZ,Gila County,America/Phoenix,928,NA,US,33.41,-110.83,3343
+85533,STANDARD,0,Clifton,,,AZ,Greenlee County,America/Phoenix,928,NA,US,33.27,-109.27,2190
+85534,STANDARD,0,Duncan,,Virden,AZ,Greenlee County,America/Phoenix,928,NA,US,32.76,-109.07,1890
+85535,STANDARD,0,Eden,,Pima,AZ,Graham County,America/Phoenix,928,NA,US,32.97,-109.91,0
+85536,PO BOX,0,Fort Thomas,,,AZ,Graham County,America/Phoenix,928,NA,US,33.12,-110.02,314
+85539,STANDARD,0,Miami,,,AZ,Gila County,America/Phoenix,"928,520",NA,US,33.34,-110.89,2050
+85540,STANDARD,0,Morenci,,,AZ,Greenlee County,America/Phoenix,928,NA,US,33.04,-109.37,3850
+85541,STANDARD,0,Payson,Star Valley,,AZ,Gila County,America/Phoenix,928,NA,US,34.19,-111.17,16590
+85542,STANDARD,0,Peridot,,,AZ,Gila County,America/Phoenix,928,NA,US,33.32,-110.32,2540
+85543,STANDARD,0,Pima,,Eden,AZ,Graham County,America/Phoenix,928,NA,US,33,-109.88,3220
+85544,STANDARD,0,Pine,Strawberry,,AZ,Gila County,America/Phoenix,928,NA,US,34.32,-111.54,2040
+85545,STANDARD,0,Roosevelt,,,AZ,Gila County,America/Phoenix,928,NA,US,33.62,-111.03,280
+85546,STANDARD,0,Safford,,,AZ,Graham County,America/Phoenix,928,NA,US,32.81,-109.36,13570
+85547,PO BOX,0,Payson,,,AZ,Gila County,America/Phoenix,928,NA,US,34.25,-111.28,2209
+85548,PO BOX,0,Safford,,,AZ,Graham County,America/Phoenix,928,NA,US,32.77,-109.71,1490
+85550,PO BOX,0,San Carlos,,,AZ,Graham County,America/Phoenix,928,NA,US,33.54,-110.47,4482
+85551,PO BOX,0,Solomon,,,AZ,Graham County,America/Phoenix,928,NA,US,32.8,-109.61,618
+85552,STANDARD,0,Thatcher,,,AZ,Graham County,America/Phoenix,928,NA,US,32.82,-109.78,5820
+85553,PO BOX,0,Tonto Basin,,,AZ,Gila County,America/Phoenix,928,NA,US,33.83,-111.26,944
+85554,PO BOX,0,Young,,,AZ,Gila County,America/Phoenix,928,NA,US,34.08,-111.01,452
+85601,PO BOX,0,Arivaca,,,AZ,Pima County,America/Phoenix,520,NA,US,31.59,-111.3,453
+85602,STANDARD,0,Benson,,"Cascabel, Mescal, Redington",AZ,Cochise County,America/Phoenix,520,NA,US,32.19,-110.38,7560
+85603,STANDARD,0,Bisbee,,"Bisbee Jct, Copper Queen, Lowell, South Bisbee, Sunset Acres, Tintown, Winwood",AZ,Cochise County,America/Phoenix,520,NA,US,31.43,-109.92,4780
+85605,PO BOX,0,Bowie,,,AZ,Cochise County,America/Phoenix,520,NA,US,32.28,-109.5,402
+85606,STANDARD,0,Cochise,,,AZ,Cochise County,America/Phoenix,520,NA,US,32.06,-109.91,600
+85607,STANDARD,0,Douglas,,"Bay Acres, Paul Spur",AZ,Cochise County,America/Phoenix,520,NA,US,31.54,-109.46,15870
+85608,PO BOX,0,Douglas,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.46,-109.58,2309
+85609,PO BOX,0,Dragoon,,,AZ,Cochise County,America/Phoenix,520,NA,US,32.02,-110.04,270
+85610,STANDARD,0,Elfrida,,Gleeson,AZ,Cochise County,America/Phoenix,520,NA,US,31.73,-109.7,830
+85611,STANDARD,0,Elgin,,Canelo,AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.57,-110.54,600
+85613,STANDARD,0,Fort Huachuca,Sierra Vista,,AZ,Cochise County,America/Phoenix,520,NA,US,31.57,-110.38,4070
+85614,STANDARD,0,Green Valley,"Madera Canyon, Sahuarita",,AZ,Pima County,America/Phoenix,520,NA,US,31.81,-110.92,17340
+85615,STANDARD,0,Hereford,,"Miracle Valley, Nicksville, Palominas, Parker Lake",AZ,Cochise County,America/Phoenix,520,NA,US,31.44,-110.23,7920
+85616,STANDARD,0,Huachuca City,,Whetstone,AZ,Cochise County,America/Phoenix,520,NA,US,31.73,-110.31,4110
+85617,STANDARD,0,Mc Neal,,"Double Adobe, Mcneal",AZ,Cochise County,America/Phoenix,520,NA,US,31.55,-109.69,830
+85618,STANDARD,0,Mammoth,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.68,-110.62,1220
+85619,PO BOX,0,Mount Lemmon,,,AZ,Pima County,America/Phoenix,520,NA,US,32.38,-110.75,67
+85620,PO BOX,0,Naco,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.34,-109.94,1136
+85621,STANDARD,0,Nogales,,Fairbank,AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.45,-110.83,21340
+85622,STANDARD,0,Green Valley,,,AZ,Pima County,America/Phoenix,520,NA,US,31.83,-111.08,5250
+85623,STANDARD,0,Oracle,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.64,-110.84,3620
+85624,STANDARD,0,Patagonia,,"Harshaw, Lochiel",AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.53,-110.71,950
+85625,STANDARD,0,Pearce,Sunsites,Sunizona,AZ,Cochise County,America/Phoenix,520,NA,US,31.89,-109.61,1350
+85626,PO BOX,0,Pirtleville,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.36,-109.57,996
+85627,PO BOX,0,Pomerene,,,AZ,Cochise County,America/Phoenix,520,NA,US,32.01,-110.24,492
+85628,PO BOX,0,Nogales,,,AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.41,-110.89,2627
+85629,STANDARD,0,Sahuarita,,Continental,AZ,Pima County,America/Phoenix,520,NA,US,31.91,-110.9,26040
+85630,STANDARD,0,Saint David,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.88,-110.18,2000
+85631,STANDARD,0,San Manuel,,,AZ,Pinal County,America/Phoenix,520,NA,US,32.62,-110.59,2600
+85632,STANDARD,0,San Simon,Portal,"Hilltop, Paradise",AZ,Cochise County,America/Phoenix,520,NA,US,32,-109.21,500
+85633,PO BOX,0,Sasabe,,,AZ,Pima County,America/Phoenix,520,NA,US,31.66,-111.5,53
+85634,STANDARD,0,Sells,Pisinemo,"Cowlic, Fresnal Canyon, Gu Achi, Little Tucson, Sil Nakaya, Vamori",AZ,Pima County,America/Phoenix,520,NA,US,32,-111.93,5230
+85635,STANDARD,0,Sierra Vista,,Fry,AZ,Cochise County,America/Phoenix,520,NA,US,31.59,-110.17,29120
+85636,PO BOX,0,Sierra Vista,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.46,-110.18,2595
+85637,STANDARD,0,Sonoita,,Greaterville,AZ,Santa Cruz County,America/Phoenix,,NA,US,31.75,-110.66,1170
+85638,STANDARD,0,Tombstone,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.71,-110.04,1460
+85639,PO BOX,0,Topawa,,,AZ,Pima County,America/Phoenix,520,NA,US,31.8,-111.74,96
+85640,STANDARD,0,Tumacacori,,"Agua Linda, Amado, Carmen, Kinsley Ranch, Tubac",AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.56,-111.05,520
+85641,STANDARD,0,Vail,"Corona, Corona De Tuc, Corona De Tucson, Santa Rita, Santa Rita Foothills",,AZ,Pima County,America/Phoenix,520,NA,US,31.95,-110.69,24240
+85643,STANDARD,0,Willcox,Ft Grant,"Bonita, Chiricahua National Monument, Dos Cabezas, Fort Grant, Kansas Settlement, Klondyke, Rucker, Sierra Bonita, Sunset, Turkey Creek",AZ,Cochise County,America/Phoenix,520,NA,US,32.43,-109.88,5920
+85644,PO BOX,0,Willcox,,,AZ,Cochise County,America/Phoenix,520,NA,US,32.25,-109.83,1325
+85645,STANDARD,0,Amado,,Tumacacori,AZ,Pima County,America/Phoenix,,NA,US,31.71,-111.02,1620
+85646,PO BOX,0,Tubac,,Tumacacori,AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.63,-111.06,1003
+85648,STANDARD,0,Rio Rico,Nogales,,AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.5,-111.06,19510
+85650,STANDARD,0,Sierra Vista,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.5,-110.21,13060
+85652,PO BOX,0,Cortaro,,,AZ,Pima County,America/Phoenix,520,NA,US,32.38,-111.11,1518
+85653,STANDARD,0,Marana,,,AZ,Pima County,America/Phoenix,520,NA,US,32.45,-111.29,13040
+85654,PO BOX,0,Rillito,,,AZ,Pima County,America/Phoenix,520,NA,US,32.42,-111.15,178
+85655,PO BOX,0,Douglas,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.34,-109.52,0
+85658,STANDARD,0,Marana,,,AZ,Pima County,America/Phoenix,520,NA,US,32.51,-111.16,11230
+85662,PO BOX,0,Nogales,,,AZ,Santa Cruz County,America/Phoenix,520,NA,US,31.36,-110.93,0
+85670,PO BOX,0,Fort Huachuca,Sierra Vista,,AZ,Cochise County,America/Phoenix,520,NA,US,31.55,-110.35,484
+85671,PO BOX,0,Sierra Vista,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.56,-110.32,0
+85701,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,"520,928",NA,US,32.22,-110.97,3900
+85702,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.21,-110.97,1060
+85703,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.27,-110.99,805
+85704,STANDARD,0,Tucson,Oro Valley,,AZ,Pima County,America/Phoenix,520,NA,US,32.33,-110.98,27140
+85705,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.26,-111,41250
+85706,STANDARD,0,Tucson,,Mission,AZ,Pima County,America/Phoenix,520,NA,US,32.15,-110.93,48760
+85707,PO BOX,0,Tucson,"Davis Monthan Afb, Dm Afb",,AZ,Pima County,America/Phoenix,520,NA,US,32.18,-110.89,838
+85708,STANDARD,0,Tucson,,Davis Monthan Afb,AZ,Pima County,America/Phoenix,520,NA,US,32.18,-110.87,3820
+85709,UNIQUE,0,Tucson,,Pima Community College,AZ,Pima County,America/Phoenix,520,NA,US,32.23,-111.01,23
+85710,STANDARD,0,Tucson,,Rincon,AZ,Pima County,America/Phoenix,520,NA,US,32.22,-110.82,45660
+85711,STANDARD,0,Tucson,,Coronado,AZ,Pima County,America/Phoenix,520,NA,US,32.21,-110.88,32720
+85712,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.25,-110.87,23610
+85713,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,"520,928",NA,US,32.19,-110.98,38340
+85714,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.16,-110.91,12690
+85715,STANDARD,0,Tucson,,Fort Lowell,AZ,Pima County,America/Phoenix,520,NA,US,32.25,-110.82,15850
+85716,STANDARD,0,Tucson,,Sun,AZ,Pima County,America/Phoenix,520,NA,US,32.24,-110.92,23520
+85717,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.24,-110.94,641
+85718,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.31,-110.92,23930
+85719,STANDARD,0,Tucson,,Sun,AZ,Pima County,America/Phoenix,"520,928",NA,US,32.24,-110.95,22540
+85720,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.19,-110.89,0
+85721,UNIQUE,0,Tucson,,Univ Of Arizona,AZ,Pima County,America/Phoenix,520,NA,US,32.23,-110.95,61
+85722,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.23,-110.94,76
+85723,UNIQUE,0,Tucson,,Veterans Hospital,AZ,Pima County,America/Phoenix,520,NA,US,32.18,-110.97,0
+85724,UNIQUE,0,Tucson,,Arizona Medical Center,AZ,Pima County,America/Phoenix,520,NA,US,32.24,-110.95,0
+85725,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.19,-111.01,261
+85726,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.2,-110.95,1129
+85728,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.31,-110.91,893
+85730,STANDARD,0,Tucson,,Rincon,AZ,Pima County,America/Phoenix,520,NA,US,32.17,-110.79,32640
+85731,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.21,-110.76,1241
+85732,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.21,-110.88,1648
+85733,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.08,-111.07,730
+85734,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.11,-110.89,2443
+85735,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.06,-111.42,8450
+85736,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,31.9,-111.36,3010
+85737,STANDARD,0,Tucson,Oro Valley,,AZ,Pima County,America/Phoenix,520,NA,US,32.41,-110.95,20430
+85738,PO BOX,0,Catalina,Tucson,,AZ,Pima County,America/Phoenix,520,NA,US,32.22,-110.92,745
+85739,STANDARD,0,Tucson,Saddlebrooke,"Catalina, Oro Valley",AZ,Pinal County,America/Phoenix,520,NA,US,32.54,-110.95,15320
+85740,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.36,-111.07,972
+85741,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.33,-111.05,29680
+85742,STANDARD,0,Tucson,Oro Valley,,AZ,Pima County,America/Phoenix,520,NA,US,32.43,-111.03,24380
+85743,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.3,-111.16,25940
+85744,UNIQUE,0,Tucson,,I B M Corp,AZ,Pima County,America/Phoenix,520,NA,US,32.04,-110.67,0
+85745,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.25,-111.08,29860
+85746,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.09,-111.08,37800
+85747,STANDARD,0,Tucson,,Rincon,AZ,Pima County,America/Phoenix,520,NA,US,32.1,-110.77,23620
+85748,STANDARD,0,Tucson,,Rincon,AZ,Pima County,America/Phoenix,520,NA,US,32.21,-110.75,17210
+85749,STANDARD,0,Tucson,,Ft Lowell,AZ,Pima County,America/Phoenix,520,NA,US,32.28,-110.73,17160
+85750,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.29,-110.83,21390
+85751,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.24,-110.83,1270
+85752,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.35,-111.04,1329
+85754,PO BOX,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.23,-111,1441
+85755,STANDARD,0,Tucson,Oro Valley,,AZ,Pima County,America/Phoenix,520,NA,US,32.46,-110.97,14120
+85756,STANDARD,0,Tucson,,"Tsn, Tuscon",AZ,Pima County,America/Phoenix,520,NA,US,32.07,-110.92,27950
+85757,STANDARD,0,Tucson,,,AZ,Pima County,America/Phoenix,520,NA,US,32.13,-111.12,17980
+85775,UNIQUE,0,Tucson,,Business Reply,AZ,Pima County,America/Phoenix,520,NA,US,32.21,-110.97,0
+85777,UNIQUE,1,Tucson,,Ariz Correctional Ctr,AZ,Pima County,America/Phoenix,520,NA,US,32.09,-110.91,0
+85901,STANDARD,0,Show Low,,Shumway,AZ,Navajo County,America/Phoenix,928,NA,US,34.23,-110.07,11520
+85902,PO BOX,0,Show Low,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.25,-110.02,4204
+85911,PO BOX,0,Cibecue,Show Low,,AZ,Navajo County,America/Phoenix,928,NA,US,34.15,-110.51,1127
+85912,PO BOX,0,White Mountain Lake,White Mtn Lk,,AZ,Navajo County,America/Phoenix,928,NA,US,34.43,-109.9,402
+85920,STANDARD,0,Alpine,,,AZ,Apache County,America/Phoenix,928,NA,US,33.86,-109.18,380
+85922,STANDARD,0,Blue,,,AZ,Greenlee County,America/Phoenix,928,NA,US,33.52,-109.21,27
+85923,PO BOX,0,Clay Springs,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.36,-110.29,533
+85924,STANDARD,0,Concho,,Concho Valley,AZ,Apache County,America/Phoenix,928,NA,US,34.51,-109.69,1420
+85925,STANDARD,0,Eagar,,,AZ,Apache County,America/Phoenix,928,NA,US,34.09,-109.32,3590
+85926,PO BOX,0,Fort Apache,,,AZ,Navajo County,America/Phoenix,928,NA,US,33.77,-109.98,1293
+85927,STANDARD,0,Greer,,,AZ,Apache County,America/Phoenix,928,NA,US,34,-109.48,170
+85928,STANDARD,0,Heber,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.53,-110.44,1080
+85929,STANDARD,0,Lakeside,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.18,-109.94,6670
+85930,PO BOX,0,Mcnary,,Hawley Lake,AZ,Apache County,America/Phoenix,928,NA,US,34.06,-109.7,475
+85931,PO BOX,0,Forest Lakes,Heber,,AZ,Coconino County,America/Phoenix,928,NA,US,34.42,-110.91,183
+85932,PO BOX,0,Nutrioso,,,AZ,Apache County,America/Phoenix,928,NA,US,33.93,-109.22,247
+85933,PO BOX,0,Overgaard,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.37,-110.48,1977
+85934,PO BOX,0,Pinedale,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.27,-110.28,440
+85935,STANDARD,0,Pinetop,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.08,-109.9,3850
+85936,STANDARD,0,Saint Johns,,"Richville, Salado, St Johns, Witch Wells",AZ,Apache County,America/Phoenix,928,NA,US,34.56,-109.33,3160
+85937,STANDARD,0,Snowflake,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.57,-110.06,7070
+85938,STANDARD,0,Springerville,,Springville,AZ,Apache County,America/Phoenix,928,NA,US,34.04,-109.2,2100
+85939,PO BOX,0,Taylor,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.43,-110.06,3635
+85940,PO BOX,0,Vernon,,,AZ,Apache County,America/Phoenix,928,NA,US,34.22,-109.64,895
+85941,PO BOX,0,Whiteriver,,,AZ,Apache County,America/Phoenix,928,NA,US,33.8,-110.09,7415
+85942,PO BOX,0,Woodruff,Snowflake,,AZ,Navajo County,America/Phoenix,928,NA,US,34.74,-109.95,171
+86001,STANDARD,0,Flagstaff,,Northern Arizona University,AZ,Coconino County,America/Phoenix,"520,928",NA,US,35.23,-111.72,19490
+86002,PO BOX,0,Flagstaff,,,AZ,Coconino County,America/Phoenix,928,NA,US,35.56,-112.58,1637
+86003,PO BOX,0,Flagstaff,,,AZ,Coconino County,America/Denver,928,NA,US,35.19,-111.22,2531
+86004,STANDARD,0,Flagstaff,,,AZ,Coconino County,America/Phoenix,"520,928",NA,US,35.29,-111.32,33400
+86005,STANDARD,0,Flagstaff,,,AZ,Coconino County,America/Phoenix,,NA,US,35.2,-111.65,12770
+86011,UNIQUE,0,Flagstaff,,Nau,AZ,Coconino County,America/Phoenix,928,NA,US,35.18,-111.66,259
+86015,PO BOX,0,Bellemont,Flagstaff,,AZ,Coconino County,America/Phoenix,928,NA,US,35.23,-111.84,773
+86016,PO BOX,0,Gray Mountain,Cameron,,AZ,Coconino County,America/Denver,928,NA,US,35.75,-111.64,77
+86017,PO BOX,0,Munds Park,Flagstaff,,AZ,Coconino County,America/Phoenix,928,NA,US,34.92,-111.62,859
+86018,PO BOX,0,Parks,"Flagstaff, Parks Comm Po",,AZ,Coconino County,America/Phoenix,928,NA,US,35.19,-111.92,849
+86020,PO BOX,0,Cameron,,Cedar Ridge,AZ,Coconino County,America/Denver,928,NA,US,36.05,-111.45,1486
+86021,PO BOX,0,Colorado City,,,AZ,Mohave County,America/Phoenix,,NA,US,36.97,-112.98,4465
+86022,STANDARD,0,Fredonia,,"Cane Beds, Jacob Lake, Kaibab, Kaibab Indian Reservation, Moccasin, Pipe Spring National Monumen",AZ,Coconino County,America/Phoenix,928,NA,US,36.86,-112.84,1440
+86023,PO BOX,0,Grand Canyon,,"Grand Canyon National Park, Tusayan",AZ,Coconino County,America/Phoenix,928,NA,US,36.03,-112.02,2209
+86024,STANDARD,0,Happy Jack,Flagstaff,,AZ,Coconino County,America/Phoenix,928,NA,US,34.73,-111.15,450
+86025,STANDARD,0,Holbrook,,,AZ,Navajo County,America/Phoenix,928,NA,US,34.94,-110.09,4660
+86028,PO BOX,0,Petrified Forest Natl Pk,"Holbrook, Petrified For",,AZ,Apache County,America/Phoenix,928,NA,US,35.07,-109.76,22
+86029,PO BOX,0,Sun Valley,Holbrook,,AZ,Navajo County,America/Phoenix,928,NA,US,34.96,-110.05,169
+86030,PO BOX,0,Hotevilla,,Bacobi,AZ,Navajo County,America/Phoenix,928,NA,US,35.97,-110.73,910
+86031,PO BOX,0,Indian Wells,Holbrook,Bitahochee,AZ,Navajo County,America/Denver,928,NA,US,35.41,-110.08,1274
+86032,PO BOX,0,Joseph City,,,AZ,Navajo County,America/Phoenix,928,NA,US,35.08,-110.28,1357
+86033,PO BOX,0,Kayenta,,"Baby Rock, Black Mesa, Chilchinbito, Oljato",AZ,Navajo County,America/Denver,928,NA,US,36.64,-110.18,7652
+86034,PO BOX,0,Keams Canyon,,Jeddito,AZ,Navajo County,America/Phoenix,928,NA,US,35.76,-110.25,1490
+86035,PO BOX,0,Leupp,,,AZ,Coconino County,America/Denver,928,NA,US,35.41,-111.02,1444
+86036,STANDARD,0,Marble Canyon,,"Page, STA #10",AZ,Coconino County,America/Phoenix,928,NA,US,36.74,-111.85,250
+86038,STANDARD,0,Mormon Lake,Flagstaff,,AZ,Coconino County,America/Phoenix,"520,928",NA,US,34.93,-111.47,95
+86039,PO BOX,0,Kykotsmovi Village,Kykotsmovi,"Dennebito, Hard Rock, Hopi Indian Reservation, New Oraibi, Old Oraibi, Oraibi, Sand Springs",AZ,Navajo County,America/Phoenix,928,NA,US,35.91,-110.53,1320
+86040,PO BOX,0,Page,,"Greenehaven, Lake Powell Mart",AZ,Coconino County,America/Denver,928,NA,US,36.68,-111.41,10109
+86042,PO BOX,0,Polacca,,"First Mesa, Hano, Sichomovi, Walpi",AZ,Navajo County,America/Phoenix,928,NA,US,35.84,-110.37,1260
+86043,PO BOX,0,Second Mesa,,"Mishongnovi, Shipolovi, Shongopovi, Toreva",AZ,Navajo County,America/Phoenix,928,NA,US,35.81,-110.48,1440
+86044,STANDARD,0,Tonalea,,Red Lake,AZ,San Juan County,America/Denver,928,NA,US,36.91,-110.87,2830
+86045,PO BOX,0,Tuba City,,"Coal Mine Mesa, Moenave, Moenkopi, Rare Metals",AZ,Coconino County,America/Phoenix,928,NA,US,36.09,-111.13,9840
+86046,STANDARD,0,Williams,,,AZ,Coconino County,America/Phoenix,928,NA,US,35.37,-112.26,4820
+86047,STANDARD,0,Winslow,,"Dilkon, Leupp Corner, Tolani, Tolani Lakes",AZ,Navajo County,America/Phoenix,928,NA,US,35.1,-110.64,10610
+86052,PO BOX,0,North Rim,Fredonia,,AZ,Coconino County,America/Phoenix,928,NA,US,36.3,-112.08,14
+86053,PO BOX,0,Kaibeto,Tonalea,,AZ,Coconino County,America/Denver,928,NA,US,36.69,-111.07,1897
+86054,PO BOX,0,Shonto,Tonalea,,AZ,Navajo County,America/Denver,928,NA,US,36.72,-110.62,1242
+86301,STANDARD,0,Prescott,,,AZ,Yavapai County,America/Phoenix,"520,928",NA,US,34.62,-112.42,18100
+86302,PO BOX,0,Prescott,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.58,-112.43,1780
+86303,STANDARD,0,Prescott,Groom Creek,,AZ,Yavapai County,America/Phoenix,"520,928",NA,US,34.49,-112.44,13970
+86304,PO BOX,0,Prescott,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.57,-112.44,2056
+86305,STANDARD,0,Prescott,Iron Springs,,AZ,Yavapai County,America/Phoenix,"520,928",NA,US,34.76,-112.88,15130
+86312,PO BOX,0,Prescott Valley,Prescott Vly,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.61,-112.32,2732
+86313,PO BOX,0,Prescott,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.55,-112.45,197
+86314,STANDARD,0,Prescott Valley,Prescott Vly,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.63,-112.31,31430
+86315,STANDARD,0,Prescott Valley,Prescott Vly,Prescott,AZ,Yavapai County,America/Phoenix,928,NA,US,34.69,-112.3,7000
+86320,PO BOX,0,Ash Fork,,,AZ,Yavapai County,America/Phoenix,928,NA,US,35.13,-112.52,1547
+86321,STANDARD,0,Bagdad,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.5,-113.07,1960
+86322,STANDARD,0,Camp Verde,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.48,-111.78,9640
+86323,STANDARD,0,Chino Valley,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.77,-112.45,15080
+86324,STANDARD,0,Clarkdale,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.79,-112.1,3550
+86325,STANDARD,0,Cornville,,,AZ,Yavapai County,America/Phoenix,"520,928",NA,US,34.73,-111.91,4290
+86326,STANDARD,0,Cottonwood,,,AZ,Yavapai County,America/Phoenix,"520,928",NA,US,34.75,-112.01,20310
+86327,STANDARD,0,Dewey,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.56,-112.12,8240
+86329,PO BOX,0,Humboldt,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.5,-112.22,1136
+86330,STANDARD,1,Prescott,Iron Springs,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.67,-112.52,0
+86331,PO BOX,0,Jerome,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.71,-112.16,437
+86332,STANDARD,0,Kirkland,"Peeples Valley, Peeples Vly",,AZ,Yavapai County,America/Phoenix,928,NA,US,34.29,-112.66,1080
+86333,STANDARD,0,Mayer,"Bensch Ranch, Cordes Lakes, Spring Valley",,AZ,Yavapai County,America/Phoenix,928,NA,US,34.34,-112.03,3850
+86334,STANDARD,0,Paulden,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.9,-112.43,3500
+86335,STANDARD,0,Rimrock,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.68,-111.7,3420
+86336,STANDARD,0,Sedona,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.94,-111.94,9070
+86337,PO BOX,0,Seligman,,,AZ,Yavapai County,America/Phoenix,928,NA,US,35.13,-112.99,962
+86338,PO BOX,0,Skull Valley,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.58,-112.77,449
+86339,PO BOX,0,Sedona,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.86,-111.76,1772
+86340,PO BOX,0,Sedona,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.86,-111.79,987
+86341,PO BOX,0,Sedona,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.77,-111.76,628
+86342,PO BOX,0,Lake Montezuma,Lk Montezuma,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.63,-111.77,573
+86343,PO BOX,0,Crown King,,,AZ,Yavapai County,America/Phoenix,928,NA,US,34.2,-112.34,73
+86351,STANDARD,0,Sedona,,,AZ,Yavapai County,America/Phoenix,"520,928",NA,US,34.75,-111.77,4820
+86401,STANDARD,0,Kingman,,"Grasshopper Junction, Lake Mead Rancheros",AZ,Mohave County,America/Phoenix,928,NA,US,35.24,-113.76,19610
+86402,PO BOX,0,Kingman,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.22,-113.35,2554
+86403,STANDARD,0,Lake Havasu City,Lk Havasu Cty,Havasu City,AZ,Mohave County,America/Phoenix,928,NA,US,34.48,-114.32,12760
+86404,STANDARD,0,Lake Havasu City,Lk Havasu Cty,,AZ,Mohave County,America/Phoenix,928,NA,US,34.61,-114.3,12310
+86405,PO BOX,0,Lake Havasu City,Lk Havasu Cty,,AZ,Mohave County,America/Phoenix,928,NA,US,34.5,-114.31,2386
+86406,STANDARD,0,Lake Havasu City,Lk Havasu Cty,,AZ,Mohave County,America/Phoenix,928,NA,US,34.44,-114.24,18050
+86409,STANDARD,0,Kingman,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.24,-114.01,18610
+86411,PO BOX,0,Hackberry,Kingman,,AZ,Mohave County,America/Phoenix,928,NA,US,35.36,-113.72,101
+86412,PO BOX,0,Hualapai,Kingman,,AZ,Mohave County,America/Phoenix,928,NA,US,35.5,-113.88,342
+86413,STANDARD,0,Golden Valley,Kingman,,AZ,Mohave County,America/Phoenix,928,NA,US,35.13,-114.25,6190
+86426,STANDARD,0,Fort Mohave,Bullhead City,,AZ,Mohave County,America/Phoenix,928,NA,US,35,-114.56,10990
+86427,PO BOX,0,Fort Mohave,Bullhead City,,AZ,Mohave County,America/Phoenix,928,NA,US,35.01,-114.58,1620
+86429,STANDARD,0,Bullhead City,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.14,-114.49,5430
+86430,PO BOX,0,Bullhead City,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.28,-114.49,954
+86431,PO BOX,0,Chloride,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.39,-114.21,266
+86432,PO BOX,0,Littlefield,,Beaver Dam,AZ,Mohave County,America/Phoenix,928,NA,US,36.9,-113.94,1110
+86433,PO BOX,0,Oatman,,,AZ,Mohave County,America/Phoenix,928,NA,US,34.92,-114.35,123
+86434,STANDARD,0,Peach Springs,,"Grand Canyon Caverns, Shipley, Truxton",AZ,Mohave County,America/Phoenix,928,NA,US,35.64,-113.61,1420
+86435,PO BOX,0,Supai,,Havasupai Indian Reservation,AZ,Coconino County,America/Phoenix,928,NA,US,36.15,-112.63,377
+86436,STANDARD,0,Topock,,Golden Shores,AZ,Mohave County,America/Phoenix,928,NA,US,34.72,-114.44,1150
+86437,STANDARD,0,Valentine,Kingman,,AZ,Mohave County,America/Phoenix,928,NA,US,35.39,-113.62,58
+86438,PO BOX,0,Yucca,,,AZ,Mohave County,America/Phoenix,928,NA,US,34.76,-114.01,530
+86439,PO BOX,0,Bullhead City,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.14,-114.56,1664
+86440,STANDARD,0,Mohave Valley,,,AZ,Mohave County,America/Phoenix,928,NA,US,34.86,-114.51,4870
+86441,STANDARD,0,Dolan Springs,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.64,-114.31,940
+86442,STANDARD,0,Bullhead City,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.09,-114.57,23660
+86443,STANDARD,0,Temple Bar Marina,Templ Bar Mar,,AZ,Mohave County,America/Phoenix,928,NA,US,36.02,-114.29,17
+86444,STANDARD,0,Meadview,,,AZ,Mohave County,America/Phoenix,928,NA,US,35.98,-114.06,630
+86445,STANDARD,0,Willow Beach,"Kingman, White Hills",,AZ,Mohave County,America/Phoenix,928,NA,US,35.77,-114.5,220
+86446,PO BOX,0,Mohave Valley,Bullhead City,,AZ,Mohave County,America/Phoenix,928,NA,US,34.91,-114.54,1103
+86502,PO BOX,0,Chambers,,Wide Ruins,AZ,Apache County,America/Phoenix,928,NA,US,35.14,-109.57,618
+86503,STANDARD,0,Chinle,,"Canyon De Chelly National Mo, Cottonwood Station, Huachuca Terrace, Low Mountain, Rough Rock, Salina, Smoke Signal, Tahchee, Tsail",AZ,Apache County,America/Denver,928,NA,US,36.23,-109.57,8592
+86504,PO BOX,0,Fort Defiance,,White Clay,AZ,Apache County,America/Denver,928,NA,US,35.77,-109.11,2915
+86505,STANDARD,0,Ganado,,"Cornfields, Greasewood, Hubbell Trading Post Nationa, Kin-li-chee, Klagetoh, Mennonite Mission, Navajo Station, Steamboat Canyon, Sunrise Springs, Toyei, Woodsprings",AZ,Apache County,America/Denver,928,NA,US,35.67,-109.65,3262
+86506,PO BOX,0,Houck,,"Allentown, Oak Springs, Pine Springs, Querino",AZ,Apache County,America/Denver,928,NA,US,35.36,-109.24,541
+86507,PO BOX,0,Lukachukai,Chinle,"Greasewood Springs, Upper Greasewood Trading Pos, Upper Wheatfields",AZ,Apache County,America/Denver,928,NA,US,36.45,-109.27,821
+86508,PO BOX,0,Lupton,Houck,,AZ,Apache County,America/Denver,928,NA,US,35.29,-109.07,302
+86510,PO BOX,0,Pinon,,,AZ,Navajo County,America/Denver,928,NA,US,36.2,-110.23,2420
+86511,PO BOX,0,Saint Michaels,St Michaels,"Cross Canyon, Hunters Point, Two Story",AZ,Apache County,America/Denver,928,NA,US,35.55,-109.15,1822
+86512,PO BOX,0,Sanders,,Burnt Water,AZ,Apache County,America/Phoenix,928,NA,US,35.13,-109.29,1539
+86514,STANDARD,0,Teec Nos Pos,,"Immanuel Mission, Mexican Water, Red Mesa, Tolacon",AZ,Apache County,America/Denver,928,NA,US,36.89,-109.37,1960
+86515,PO BOX,0,Window Rock,,"Navajo Indian Reservation, Tse Bonita",AZ,McKinley County,America/Denver,928,NA,US,35.69,-108.98,19730
+86520,PO BOX,0,Blue Gap,Pinon,,AZ,Apache County,America/Denver,928,NA,US,36.07,-109.98,988
+86535,PO BOX,0,Dennehotso,Teec Nos Pos,,AZ,Apache County,America/Denver,928,NA,US,36.8,-109.84,507
+86538,PO BOX,0,Many Farms,Chinle,,AZ,Apache County,America/Denver,928,NA,US,36.39,-109.59,1144
+86540,PO BOX,0,Nazlini,Ganado,,AZ,Apache County,America/Denver,928,NA,US,35.92,-109.41,254
+86544,PO BOX,0,Red Valley,Teec Nos Pos,,AZ,Apache County,America/Denver,928,NA,US,36.61,-109.16,191
+86545,PO BOX,0,Rock Point,,Chinle,AZ,Apache County,America/Denver,928,NA,US,36.66,-109.6,703
+86547,PO BOX,0,Round Rock,Chinle,,AZ,Apache County,America/Denver,928,NA,US,36.53,-109.44,387
+86555,STANDARD,1,Douglas,,,AZ,Cochise County,America/Phoenix,520,NA,US,31.38,-109.55,0
+86556,PO BOX,0,Tsaile,Chinle,,AZ,Apache County,America/Denver,928,NA,US,36.27,-109.26,660
