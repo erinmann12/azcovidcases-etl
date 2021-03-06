@@ -1,0 +1,23 @@
+﻿FIPS*,County name,RUC code,Pop. 1990,Pop. 2000,Pop. 2010,Pop. 2019,Change 2010-19
+4000,Arizona,,"3,665,339","5,130,247","6,392,288","7,278,717",13.90%
+4001,Apache County,6,"61,591","69,430","71,517","71,887",0.50%
+4003,Cochise County,3,"97,624","117,743","131,359","125,922",-4.10%
+4005,Coconino County,3,"96,591","116,320","134,426","143,476",6.70%
+4007,Gila County,4,"40,216","51,298","53,592","54,018",0.80%
+4009,Graham County,7,"26,554","33,475","37,212","38,837",4.40%
+4011,Greenlee County,7,"8,008","8,539","8,444","9,498",12.50%
+4012,La Paz County,6,"13,844","19,670","20,489","21,108",3.00%
+4013,Maricopa County,1,"2,122,101","3,072,415","3,817,365","4,485,414",17.50%
+4015,Mohave County,3,"93,497","154,981","200,182","212,181",6.00%
+4017,Navajo County,4,"77,674","97,452","107,488","110,924",3.20%
+4019,Pima County,2,"666,957","843,702","980,263","1,047,279",6.80%
+4021,Pinal County,1,"116,397","179,469","375,764","462,789",23.20%
+4023,Santa Cruz County,4,"29,676","38,381","47,420","46,498",-1.90%
+4025,Yavapai County,3,"107,714","167,377","211,017","235,099",11.40%
+4027,Yuma County,3,"106,895","159,995","195,750","213,787",9.20%
+,,,,,,,
+"Source: U.S. Census Bureau, 1990, 2000, and 2010 Censuses of Population (corrected), and 2019 County Total Population Estimates.
+
+1) The FIPS codes uniquely identify each county and are part of the Federal Information Processing Standards (FIPS) developed by the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. For more information, see the NIST FIPS publication page.
+
+2) The 2013 rural-urban continuum codes classify metropolitan counties (codes 1 through 3) by size of the Metropolitan Statistical Area (MSA), and nonmetropolitan counties (codes 4 through 9) by degree of urbanization and proximity to metro areas. See rural-urban continuum codes for precise definitions of each code.",,,,,,,
